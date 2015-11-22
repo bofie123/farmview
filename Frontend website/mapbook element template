@@ -1,0 +1,25 @@
+<a name=""> <!-- Insert anchor name here -->
+<div id="extra/extra2"> <!-- Make sure to alternate between extra and extra2 --> 
+    <div class="container"> 
+        <h2 style="text-align: center"><!-- Map title goes here --></h2> 
+        <br>
+        
+        <!-- iframe goes here -->
+        <p class="p">
+            <!-- Text about map -->    
+        </p>  
+    </div>
+
+    <!-- New container for images -->
+    <div class = "container">
+        <img src="" width="17%" >
+
+        <a href="IMAGE PATH" data-lightbox="mapbook#" data-title="CAPTION HERE">
+        <img src="IMAGE PATH" class="image-thumb"></a>
+
+        <!-- Button to return to mapbook overview -->
+        <ul class="actions">
+            <li><a href="#" class="button">Return</a></li>
+        </ul>
+    </div> 
+</div>
